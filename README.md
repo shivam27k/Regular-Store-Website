@@ -1,3 +1,3 @@
 # RESPONSIVE WEBSITE
 
-This was made just for practice.
+This was made just to practice.
