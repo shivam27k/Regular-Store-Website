@@ -2,7 +2,7 @@
 
 This README file provides an overview of the reusable store website template with smooth navigation, animations, and sections for customer reviews, team introductions, and contact information.
 
-`You can go throught the website template from this link`:
+`You can go through the website template from this link`:
 
 https://shivam27k.github.io/Regular-Store-Website/
 
