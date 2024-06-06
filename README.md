@@ -9,27 +9,21 @@ https://shivam27k.github.io/Regular-Store-Website/
 ## Features
 
 -   **Customizable Navigation Bar:** A sleek navigation bar with clickable buttons allows users to navigate between sections of the same page using smooth scroll animations.
-<div style='width:100%; display:flex; justify-content:center; margin-bottom:30px'>
-<video src="videos/scrollEffect.mp4" controls style="width: 500px;aspect-ratio: 16 / 9;overflow: hidden;"  title="Title"></video>
-</div>
+
+![scrolling effect](https://github.com/shivam27k/Regular-Store-Website/assets/57641214/14a03ef3-39bf-4b35-8465-95b46aba44ed)
 
 -   **Customer Reviews Section:** Showcase positive customer feedback to build trust and credibility.
 
-<div style='width:100%; display:flex; justify-content:center; margin-bottom:30px'>
-<video src="videos/customersReview.mp4" controls style="width: 500px;aspect-ratio: 16 / 9;overflow: hidden;"  title="Title"></video>
-</div>
+
+![customer review](https://github.com/shivam27k/Regular-Store-Website/assets/57641214/a5fb1532-90d0-4d3e-bcac-eaa7f34815fc)
 
 -   **Team Section:** Introduce your team members with names, positions, and potentially short bios to add a personal touch.
 
-<div style='width:100%; display:flex; justify-content:center; margin-bottom:30px'>
-<video src="videos/teams.mp4" controls style="width: 500px;aspect-ratio: 16 / 9;overflow: hidden;"  title="Title"></video>
-</div>
+![team section](https://github.com/shivam27k/Regular-Store-Website/assets/57641214/f7c7076b-3bee-4167-8c89-c1eeb2200e47)
 
 -   **Contact Section:** Provide clear contact information for potential customers.
 
-<div style='width:100%; display:flex; justify-content:center; margin-bottom:30px'>
-<video src="videos/contacts.mp4" controls style="width: 500px;aspect-ratio: 16 / 9;overflow: hidden;"  title="Title"></video>
-</div>
+![contact section](https://github.com/shivam27k/Regular-Store-Website/assets/57641214/950d99b4-61da-481b-aa6e-86833f40a4a6)
 
 ## Additional Notes
 
